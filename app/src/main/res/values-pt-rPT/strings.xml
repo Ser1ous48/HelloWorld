@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="product">Produto</string>
+    <string name="empty_game">Jogo</string>
+    <string name="added_game">Jogo Adicionado</string>
+</resources>
